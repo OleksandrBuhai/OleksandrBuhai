@@ -14,7 +14,7 @@ Join me on this exciting journey through lines of code, where each commit is a s
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,express,figma,github,html,materialui,mongodb,nextjs,nodejs,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,express,figma,github,html,materialui,mongodb,nextjs,nodejs,react,redux,tailwind,js,ts,vscode&perline=14" />
   </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBuhai&layout=compact)
