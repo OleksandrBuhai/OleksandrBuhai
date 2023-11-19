@@ -14,7 +14,7 @@ Join me on this exciting journey through lines of code, where each commit is a s
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,express,figma,github,html,materialui,mongodb,nextjs,nodejs,react,redux,tailwind,axios,js,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,express,figma,github,html,materialui,mongodb,nextjs,nodejs,react,redux,tailwind,js,ts,vscode&perline=14" />
   </a>
 
 <div align="center">
@@ -23,8 +23,7 @@ Join me on this exciting journey through lines of code, where each commit is a s
 </div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OleksandrBuhai&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBuhai&theme=algolia)](https://github.com/OleksandrBuhai/github-readme-stats) [![OleksandrBuhai wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OleksandrBuhai&theme=algolia)](https://github.com/OleksandrBuhai/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBuhai&theme=algolia)](https://github.com/OleksandrBuhai/github-readme-stats)
 
 <div align="center">
   
