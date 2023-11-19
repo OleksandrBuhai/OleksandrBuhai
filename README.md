@@ -25,13 +25,13 @@ Join me on this exciting journey through lines of code, where each commit is a s
 </div>
 
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBuhai&theme=algolia)](https://github.com/OleksandrBuhai/github-readme-stats)
-</div>
 
-<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBuhai&theme=algolia)](https://github.com/OleksandrBuhai/github-readme-stats)
+ 
+
+
   
-[![](https://visitcount.itsvg.in/api?id=OlekBuh&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
   
-</div>
+
 
