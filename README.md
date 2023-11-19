@@ -24,10 +24,11 @@ Join me on this exciting journey through lines of code, where each commit is a s
        alt="snake" /></a>
 </div>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBuhai&theme=algolia)](https://github.com/OleksandrBuhai/github-readme-stats)
+<div align="center">
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBuhai&theme=algolia)](https://github.com/OleksandrBuhai/github-readme-stats)
+ 
+</div>
 
 
   
