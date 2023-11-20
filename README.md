@@ -16,7 +16,19 @@ Join me on this exciting journey through lines of code, where each commit is a s
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,express,figma,github,html,materialui,mongodb,nextjs,nodejs,react,redux,tailwind,js,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,figma,github,html,materialui,nextjs,react,redux,tailwind,js,ts,vscode&perline=14" />
+  </a>
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Study👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs&perline=14" />
   </a>
 
 <div align="center">
